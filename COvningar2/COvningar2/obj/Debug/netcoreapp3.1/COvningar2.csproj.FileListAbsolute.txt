@@ -1,0 +1,14 @@
+C:\Users\emil.wallman\source\repos\COvningar2\COvningar2\bin\Debug\netcoreapp3.1\COvningar2.exe
+C:\Users\emil.wallman\source\repos\COvningar2\COvningar2\bin\Debug\netcoreapp3.1\COvningar2.deps.json
+C:\Users\emil.wallman\source\repos\COvningar2\COvningar2\bin\Debug\netcoreapp3.1\COvningar2.runtimeconfig.json
+C:\Users\emil.wallman\source\repos\COvningar2\COvningar2\bin\Debug\netcoreapp3.1\COvningar2.runtimeconfig.dev.json
+C:\Users\emil.wallman\source\repos\COvningar2\COvningar2\bin\Debug\netcoreapp3.1\COvningar2.dll
+C:\Users\emil.wallman\source\repos\COvningar2\COvningar2\bin\Debug\netcoreapp3.1\COvningar2.pdb
+C:\Users\emil.wallman\source\repos\COvningar2\COvningar2\obj\Debug\netcoreapp3.1\COvningar2.csproj.AssemblyReference.cache
+C:\Users\emil.wallman\source\repos\COvningar2\COvningar2\obj\Debug\netcoreapp3.1\COvningar2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emil.wallman\source\repos\COvningar2\COvningar2\obj\Debug\netcoreapp3.1\COvningar2.AssemblyInfoInputs.cache
+C:\Users\emil.wallman\source\repos\COvningar2\COvningar2\obj\Debug\netcoreapp3.1\COvningar2.AssemblyInfo.cs
+C:\Users\emil.wallman\source\repos\COvningar2\COvningar2\obj\Debug\netcoreapp3.1\COvningar2.csproj.CoreCompileInputs.cache
+C:\Users\emil.wallman\source\repos\COvningar2\COvningar2\obj\Debug\netcoreapp3.1\COvningar2.dll
+C:\Users\emil.wallman\source\repos\COvningar2\COvningar2\obj\Debug\netcoreapp3.1\COvningar2.pdb
+C:\Users\emil.wallman\source\repos\COvningar2\COvningar2\obj\Debug\netcoreapp3.1\COvningar2.genruntimeconfig.cache
